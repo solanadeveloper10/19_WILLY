@@ -613,9 +613,9 @@ li {
 .text-1 {
 	position: absolute;
 	top: 45%;
-	left: 25%;
+	left: 27%;
 	transform: translate(-50%, -50%);
-	/* font-size: 24px; */
+	font-size: 35px; 
 	color: #333;
 	/* background: #fff; */
 	/* padding: 10px 20px; */
@@ -633,7 +633,7 @@ li {
 
 .text-3 {
 	top: 71%;
-	left: 29%;
+	left: 26%;
 	transform: translate(-50%, -50%);
 }
 
@@ -660,7 +660,7 @@ li {
 .text-block {
 	position: absolute;
 	color: black;
-	font-size: 2vw; /* Відносний розмір шрифту для адаптивності */
+	font-size: 5vw; /* Відносний розмір шрифту для адаптивності */
 	font-weight: bold;
 	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Тінь для читабельності */
 }
@@ -668,14 +668,14 @@ li {
 /* Позиція першого блоку тексту */
 .text-2_1 {
 	top: 54%; /* Відносне позиціонування зверху */
-	left: 32%; /* Відносне позиціонування зліва */
+	left: 35%; /* Відносне позиціонування зліва */
 	transform: translate(-50%, -50%);
 }
 
 /* Позиція другого блоку тексту */
 .text-2_2 {
 	top: 54%; /* Відносне позиціонування зверху */
-	left: 64%; /* Відносне позиціонування зліва */
+	left: 66%; /* Відносне позиціонування зліва */
 	transform: translate(-50%, -50%);
 }
 
